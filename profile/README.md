@@ -1,5 +1,7 @@
 # Equipe FR0M ZER0 0️⃣
 
+![Banner](./img/F0%20Banner.png)
+
 Equipe formada para realizar os Projetos de Aprendizagem Integrada (APIs) na FATEC Profº Jessen Vidal (São José dos Campos, São Paulo).
 
 ## 📌 Projetos
