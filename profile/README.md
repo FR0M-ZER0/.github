@@ -1,4 +1,4 @@
-# Equipe FR0M ZER0 0️⃣
+# Equipe FR0M_ZER0 0️⃣
 
 ![Banner](./img/F0%20Banner.png)
 
