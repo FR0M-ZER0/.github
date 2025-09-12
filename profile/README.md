@@ -6,9 +6,11 @@
 
 ## 📌 Projetos
 
-| 📅 Semestre | 📂 Nome do Projeto  | 🏢 Cliente         | 📝 Descrição                                              |
+| 📅 Semestre | 📂 Nome do Projeto  | 🏢 Cliente         | 📝 Descrição                                      |
 |------------|-------------------|------------------|----------------------------------------------------------|
-| 3º SEM     | [Checkpoint](https://github.com/FR0M-ZER0/checkpoint) | Necto Systems | Sistema Web para Gestão e Controle de Ponto Eletrônico. |
+| 1º SEM 2025    | [Checkpoint](https://github.com/FR0M-ZER0/checkpoint) | Necto Systems | Sistema Web para Gestão e Controle de Ponto Eletrônico. |
+| 2º SEM 2025    | [Nimbus](https://github.com/FR0M-ZER0/Nimbus) | Tecsus | Sistema de Coleta de Dados de Estações Meteorológicas. |
+
 
 ## 👥 Membros da Equipe
 
@@ -20,3 +22,5 @@
 | João Góes | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](https://www.linkedin.com/in/joaovitorgoes) |
 | João Suzuki | [GitHub](https://github.com/joaosuzuki98) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-suzuki-6a2b02192/) |
 | Pedro Prevides | [GitHub](https://github.com/GalaxyBurst) | [LinkedIn](https://www.linkedin.com/in/pedro-prevides-87a0b71a8/) |
+| Gustavo Lima | [GitHub](https://github.com/Miojoguu) | [LinkedIn](https://www.linkedin.com/in/gustavo-lima-904623295/) |
+
