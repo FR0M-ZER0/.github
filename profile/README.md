@@ -22,5 +22,6 @@
 | João Góes | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](https://www.linkedin.com/in/joaovitorgoes) |
 | João Suzuki | [GitHub](https://github.com/joaosuzuki98) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-suzuki-6a2b02192/) |
 | Pedro Prevides | [GitHub](https://github.com/GalaxyBurst) | [LinkedIn](https://www.linkedin.com/in/pedro-prevides-87a0b71a8/) |
+| Daniel Piloto | [GitHub](	https://github.com/danprsp) | [LinkedIn](https://www.linkedin.com/in/daniel-piloto-98b717226/) |
 | Gustavo Lima | [GitHub](https://github.com/Miojoguu) | [LinkedIn](https://www.linkedin.com/in/gustavo-lima-904623295/) |
 
